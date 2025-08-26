@@ -15,7 +15,7 @@ import Account from "./pages/Account";
 import Login from "./pages/Login";
 import Booking from "./pages/Booking";
 import PageNotFound from "./pages/PageNotFound";
-import CheckIn from "./pages/Checkin";
+import CheckIn from "./pages/CheckIn";
 
 import ProtectedRoute from "./ui/ProtectedRoute";
 import AppLayout from "./ui/AppLayout";
